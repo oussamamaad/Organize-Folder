@@ -1,0 +1,2 @@
+# Ce projet n'utilise que la bibliothèque standard de Python (3.8+).
+# Aucune dépendance externe n'est nécessaire.
